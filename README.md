@@ -1,5 +1,7 @@
 ## Installation
-```pnpm install``
+```
+pnpm install
+```
 
 .env setup
 ```
